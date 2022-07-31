@@ -12,7 +12,7 @@ LICENSE: [MIT](./license.md)
 [6. Команды для работы с коммитами](./commits6.md)  
 [7. Ветвление в _Git_](./aboutbranches7.md)  
 [8. Работа с ветками](./branch8.md)  
-[9. Удаленный репозиторий](./remoterepository9.md) 
+[9. Удаленный репозиторий](./remoterepository9.md)   
 [Шпаргалка. Основные команды _GIT_](inshort.md)
 
 ---
