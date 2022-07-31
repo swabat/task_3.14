@@ -13,7 +13,7 @@ LICENSE: [MIT](./license.md)
 [7. Ветвление в _Git_](./aboutbranches7.md)  
 [8. Работа с ветками](./branch8.md)  
 [9. Удаленный репозиторий](./remoterepository9.md) 
-
+[Шпаргалка. Основные команды _GIT_](inshort.md)
 
 ---
 Git logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
